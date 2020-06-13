@@ -9,7 +9,7 @@ $global-secondary-background:                   darken($global-primary-backgroun
 $secondary-background-dark:                     darken($global-primary-background, 35%);
 $global-secondary-background-light:             #253461;
 $global-muted-background:                       #F5F7FB;
-$global-success-background:                     #6BEED4;
+$global-success-background:                     rgb(214, 203, 0);
 $background-success-light:                      lighten($global-success-background, 26%);
 $text-primary-color:                            $global-primary-background;
 $base-link-color:                               $text-primary-color;

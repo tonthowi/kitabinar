@@ -244,6 +244,14 @@
     padding: 8px 17px;
     font-weight: 600;
   }
+
+  .uk-label-category {
+    background-color: $global-success-background;
+    color: $global-color;
+    font-size: $xsmall-font-size;
+    padding: 8px;
+    font-weight: 600;
+  }
 }
 
 @mixin hook-accordion-title(){
